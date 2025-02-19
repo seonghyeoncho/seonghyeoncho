@@ -4,4 +4,6 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seonghyeoncho&layout=compact)](https://github.com/seonghyeoncho/github-readme-stats)
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="ecdc8cdb-37b9-4afb-871d-e0aee5ded54b" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+
+<img src="https://www.credly.com/badges/ecdc8cdb-37b9-4afb-871d-e0aee5ded54b/public_url" alt="Credly Badge" width="150">
